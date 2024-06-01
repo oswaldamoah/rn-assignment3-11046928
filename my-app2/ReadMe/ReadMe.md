@@ -24,8 +24,8 @@ The `App` component is where all the other components are integrated and display
 
 ## Screenshots
 
-![Screenshot 1](.\screenshots\ss1.png)
-![Screenshot 2](.\screenshots\ss2.png)
+![Screenshot 1](ss1.png)
+![Screenshot 2](ss2.png)
 
 
 
